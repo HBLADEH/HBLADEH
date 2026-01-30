@@ -1,4 +1,5 @@
-## Hi there 👋
+![Metrics](https://github.com/HBLADEH/metrics/blob/master/github-metrics.svg)
+
 
 <!--
 **HBLADEH/HBLADEH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![HBLADEH's GitHub stats](https://github-readme-stats-ten-nu-95.vercel.app/api/top-langs?username=HBLADEH)
+<!-- ![HBLADEH's GitHub stats](https://github-readme-stats-ten-nu-95.vercel.app/api/top-langs?username=HBLADEH) -->
 
