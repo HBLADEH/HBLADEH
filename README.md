@@ -1,6 +1,6 @@
 ![Metrics](https://github.com/HBLADEH/metrics/blob/master/github-metrics.svg)
 
-
+[![Hits](https://hits.sh/github.com/HBLADEH.svg?style=flat-square)](https://hits.sh/github.com/HBLADEH)
 <!--
 **HBLADEH/HBLADEH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
